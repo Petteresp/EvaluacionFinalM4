@@ -1,9 +1,9 @@
 # PortafolioModulo4
 
 ## novedades 
-todos los datos del carrito de compra se cargan desde localSorage
-permite eliminar un producto del carrito
-permite sumar y restar cantidad a un producto
+todos los datos del carrito de compra se cargan desde localSorage.
+permite eliminar un producto del carrito.
+permite sumar y restar cantidad a un producto.
 ##
 
 e-commerce de funkopops usando la libreria de bootstraps.
@@ -27,5 +27,5 @@ nombre : Pedro
 Contraseña : password
 
 ## links a GITHUB
-link repositorio: https://github.com/Petteresp/PortafolioModulo2
-link github pages: https://petteresp.github.io/PortafolioModulo2/index.html
+link repositorio: https://github.com/Petteresp/PortafolioModulo4
+link github pages: https://petteresp.github.io/PortafolioModulo4/index.html
